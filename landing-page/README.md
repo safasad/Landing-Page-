@@ -1,13 +1,16 @@
 # Landing Page Project
 
+
 ## Table of Contents
+this project contain the following
+1.navigation menu contain all sections in the page
+2.contain 6 sections every section has some text
 
 * [Instructions](#instructions)
 
 ## Instructions
+To test the functionality of this page do this
+1. Click on any section in the nav page will scroll to the section that you clicked on it
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+2. when you scroll on the page the section that you reading it will appear in different color and the link on the nav also changed with same color
 
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
